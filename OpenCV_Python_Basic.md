@@ -1,4 +1,4 @@
-# OpenCV Cheat Sheet for Reading and Writing Images with Python
+# OpenCV with Python Basics
 
 ## Reading and Writing Images with OpenCV
 
