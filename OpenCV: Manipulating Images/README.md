@@ -1,3 +1,5 @@
+# Images often require to be manipulated to extract meaningful portions of an image or prepare them for a machine learning pipeline. OpenCV can help with this. In this course, you'll investigate a variety of image manipulation operations using OpenCV. You'll begin by recognizing how to filter certain portions of an image using bitwise operations. Next, you'll explore the concept of masks and how to use them while extracting parts of an image. You'll then outline how to apply geometrical operations by resizing an image to specific dimensions and discover challenges that such operations present. You'll finish the course by examining image transformations such as rotations and translations to help orient an image to your requirements. Finally, you'll discover how to flip and warp images to present them from a different perspective.
+
 # Objectives
 # •	Discover the key concepts covered in this course
 # •	Outline the applications of bitwise and, or, not, and xor operations on images
