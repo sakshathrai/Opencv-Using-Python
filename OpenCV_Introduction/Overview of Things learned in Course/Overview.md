@@ -1,4 +1,4 @@
-# -> Discover the key concepts covered in this course
+# Discover the key concepts covered in this course
 # 1. Install OpenCV from a Jupyter notebook
 # 2. Load images into an OpenCV array from your local storage and also save an array into a local file
 # 3. Read a color image into your Python source as a grayscale image and view it using an interactive window
