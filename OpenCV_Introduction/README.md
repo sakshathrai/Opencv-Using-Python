@@ -8,5 +8,4 @@
 # •	Recognize the use of bgr and rgb color spaces in opencv and pillow libraries
 # •	Separate a color image into blue, green, and red channels
 # •	Use the add and add weighted operations in opencv to combine two images
-# •	Perform opencv's subtract operation between two images
-# •	Summarize the key concepts covered in this course
+# •	Perform opencv's subtract operation between two image
