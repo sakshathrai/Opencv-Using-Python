@@ -2,7 +2,7 @@
 
 # Objectives:
 # •	Discover the key concepts covered in this course
-# •	Outline the applications of bitwise and, or, not, and xor operations on images
+# •	Outline the applications of bitwise and, or, not, and xor operations on images.
 # •	Create masks and inverted masks from a grayscale image
 # •	Transform a color image to grayscale and then generate a mask from it
 # •	Use the cv2.resize() function to reduce the size of a color image
